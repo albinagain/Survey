@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  background-image: url(background.jpg);
+  font-family: sans-serif;
+}
+header{
+  color: white;
+  background-color: rgba(0,0,0,0.9);
+  padding: 1rem 0.5rem;
+}
+form{
+  background-color: rgba(0,0,0,0.7);
+  color: white;
+  padding: 2.5rem 0.625rem;
+  height: 75.5vh;
+  display:  flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+#submit-body{
+  background-color: rgba(0,0,0,0.7);
+  color: white;
+  padding: 2.5rem 0.625rem;
+  height: 75.5vh;
+}
